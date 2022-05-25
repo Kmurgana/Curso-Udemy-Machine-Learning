@@ -29,7 +29,11 @@ Unidades:
 12- Support Vector Machine
 
 13- K Nearest Neighbors
+
 14-Sistemas de Recomendación
+
 15-ACP
+
 16-Redes Neuronales con TensorFlow 1.5
+
 17-Juntar R y Python con rpy2
